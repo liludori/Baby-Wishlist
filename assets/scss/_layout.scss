@@ -64,7 +64,20 @@
 
 		li {
 			float: left;
-			width: 50%;
+			position:relative;
+			margin:0 15px 0 15px;
+			box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+			background: $color-white;
+			padding:15px 10px;
+			height:360px;
+		       -webkit-transition: all 200ms ease-in;
+    	               -webkit-transform: scale(1); 
+    		           -ms-transition: all 200ms ease-in;
+   			   -ms-transform: scale(1); 
+  			  -moz-transition: all 200ms ease-in;
+  			  -moz-transform: scale(1);
+  			  transition: all 200ms ease-in;
+  			  transform: scale(1);  
 		}
 
 		a {
