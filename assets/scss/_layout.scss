@@ -138,7 +138,7 @@
 		position: relative;
 
 		&:before {
-			content: "View Project";
+			content: "";
 			color: $color-white;
 			@extend .h2;
 			font-weight: 800;
@@ -156,7 +156,7 @@
 		}
 
 		&:after {
-			background: #000;
+			
 			content: "";
 			display: block;
 			position: absolute;
