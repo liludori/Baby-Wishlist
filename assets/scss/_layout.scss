@@ -179,15 +179,13 @@
 		width: 120%;
   		background: #e43;
   		position: absolute;
-  		top: 42%;
-  		left:-10%;
+  		bottom: 0;
+  		left:0;
 		z-index:101;
   		text-align: center;
   		line-height: 50px;
   		letter-spacing: 1px;
   		color: #fff;
-  		transform: rotate(-45deg);
-  		-webkit-transform: rotate(-45deg);
   		overflow: hidden;
 	}
 }
