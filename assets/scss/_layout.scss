@@ -79,6 +79,18 @@
   			  transition: all 200ms ease-in;
   			  transform: scale(1);  
 		}
+		
+		li:hover {
+  			-webkit-transition: all 200ms ease-in;
+    			-webkit-transform: scale(1.1);
+   			    -ms-transition: all 200ms ease-in;
+  			    -ms-transform: scale(1.1);   
+  			   -moz-transition: all 200ms ease-in;
+  			   -moz-transform: scale(1.1);
+   			        transition: all 200ms ease-in;
+    			        transform: scale(1.1);
+			        box-shadow: 0 5px 15px rgba(98, 179, 229, 0.50);
+		}
 
 		a {
 			padding: 0 1.5rem;
