@@ -99,7 +99,15 @@
 
 	@media (min-width: $breakpoint-medium) {
 		li {
-			width: 33.33333%;
+			width: 21%;
+			height:390px;
+			
+		}
+	}
+	@media (max-width: 768px) {
+		li {
+			width: 42%;
+			height:340px;
 		}
 	}
 
