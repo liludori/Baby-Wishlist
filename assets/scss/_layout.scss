@@ -367,3 +367,25 @@
 .follow {
 	margin-bottom: 3rem;
 }
+
+#banner {
+    background-color: #C4E8F8;
+    padding-bottom: 0;
+    height: 330px;
+    overflow: hidden;
+}
+#banner .wrapper {
+    height: 100%;
+    position: relative;
+    padding: 0;
+}
+#banner .wrapper svg {
+    position: absolute;
+    bottom: 0;
+}
+.item-title {
+    text-align:center;
+    padding:15px;
+    color:#1595e4;
+    line-height: 24px;
+}
