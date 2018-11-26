@@ -10,7 +10,7 @@ project:
   title: "Weewell WMA420 Dijital Bebek Telsizi 300 mt"
   type: "ALINDI :)"
   url: "https://urun.n11.com/bebek-telsizi-ve-kamera/weewell-wma420-dijital-bebek-telsizi-300-mt-P217692229?cid=700501&utm_source=comp_akakce&utm_medium=cpc&utm_campaign=akakce_genel&v=1.7.2"
-  logo: "https://n11scdn4.akamaized.net/a1/1024/anne-bebek/bebek-telsizi-ve-kamera/weewell-wma420-dijital-bebek-telsizi-300-mt__0902093682823734.jpg"
+  logo: "/assets/images/bebek-telsizi.jpg"
   tech: ""
 
 agency:
