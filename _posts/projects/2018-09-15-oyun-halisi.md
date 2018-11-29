@@ -10,7 +10,7 @@ project:
   title: "Bondigo - Serüven Ormanı Oyun Halısı"
   type: ""
   url: "https://www.e-bebek.com/bondigo-seruven-ormani-oyun-halisi-p-bon-bp2014/"
-  logo: "https://cdn.e-bebek.com/mnresize/500/-/www.ebebek/i/p/hd/14/lBON-BP2014_1.jpg"
+  logo: "/assets/images/oyun-halisi.jpg"
   tech: ""
 
 agency:
@@ -20,13 +20,13 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/yellowpineapple/devices.jpg"
-    alt: "Yellow Pineapple website on tablet, mobile and desktop"
+    url: ""
+    alt: ""
   - image:
-    url: "/assets/images/projects/yellowpineapple/desktop.jpg"
-    alt: "Yellow Pineapple website on a desktop device"
+    url: ""
+    alt: ""
   - image:
-    url: "/assets/images/projects/yellowpineapple/mobile.jpg"
-    alt: "Yellow Pineapple website on a mobile device"
+    url: ""
+    alt: ""
 ---
 <p></p>
