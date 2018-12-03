@@ -7,10 +7,10 @@ meta:
   keywords: ""
 
 project:
-  title: "baby&plus - Bebek Oyun Seyahat Katlanabilir Park Yatağı"
+  title: "Kraft Garden Park Yatak 70x110 cm"
   type: ""
-  url: "https://www.e-bebek.com/baby-plus-bebek-oyun-seyahat-katlanabilir-park-yatagi-p-byp-dlc3031/?gclid=CjwKCAjwlejcBRAdEiwAAbj6Kf8aYkfpe9ov_037XqU61pj6KtACZ6wAtYMeIh5gj2k5p7ypGTRKaBoCZ2QQAvD_BwE"
-  logo: "https://cdn.e-bebek.com/mnresize/500/-/www.ebebek/i/p/hd/31/lBYP-DLC3031_1.jpg"
+  url: "https://www.e-bebek.com/kraft-garden-park-yatak-70x110-cm-p-kra-dp8010p2-0502/"
+  logo: "/assets/images/park-yatak.jpg"
   tech: ""
 
 agency:
@@ -20,13 +20,13 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/yellowpineapple/devices.jpg"
-    alt: "Yellow Pineapple website on tablet, mobile and desktop"
+    url: ""
+    alt: ""
   - image:
-    url: "/assets/images/projects/yellowpineapple/desktop.jpg"
-    alt: "Yellow Pineapple website on a desktop device"
+    url: ""
+    alt: ""
   - image:
-    url: "/assets/images/projects/yellowpineapple/mobile.jpg"
-    alt: "Yellow Pineapple website on a mobile device"
+    url: ""
+    alt: ""
 ---
 <p></p>
