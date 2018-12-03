@@ -86,6 +86,11 @@
 			height:150px !important;
 		}
 }
+@media (max-width: $breakpoint-medium) {
+	.projects-list li {
+		width:44% !important;
+	}
+}
 .projects-list {
 	@media (max-width: $breakpoint-small) {
 		
