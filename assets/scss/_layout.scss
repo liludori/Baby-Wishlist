@@ -69,6 +69,7 @@
 
 .projects-list {
 	@media (min-width: $breakpoint-small) {
+		
 		@include clearfix;
 
 		li {
@@ -87,6 +88,10 @@
 			    width:65%;
 			    display:inline-block;
 			    padding:7% 0 0 5%;
+		}
+		
+		#banner {
+			height:180px;
 		}
 	}
 
