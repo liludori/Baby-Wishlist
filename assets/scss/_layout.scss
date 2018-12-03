@@ -69,7 +69,7 @@
 }
 
 .projects-list {
-	@media (min-width: $breakpoint-small) {
+	@media (max-width: $breakpoint-small) {
 		
 		@include clearfix;
 
