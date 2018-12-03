@@ -64,6 +64,7 @@
 			margin:0 10px 0 10px;
 			position:relative;
 			float:left;
+			width:30%;
 		}
 }
 
@@ -97,7 +98,7 @@
 
 	@media (min-width: $breakpoint-medium) {
 		li {
-			width:30%;
+			
 			
 		}
 	}
