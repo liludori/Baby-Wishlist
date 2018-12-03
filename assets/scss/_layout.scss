@@ -86,7 +86,7 @@
 			height:150px !important;
 		}
 }
-@media (max-width: $breakpoint-medium) {
+@media (min-width:551px) and (max-width:1024px) {
 	.projects-list li {
 		width:44% !important;
 	}
