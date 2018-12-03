@@ -81,7 +81,11 @@
 			    padding:0 0 0 5%;
 		}
 }
-
+@media (max-width: $breakpoint-small) {
+		#banner {
+			height:180px;
+		}
+}
 .projects-list {
 	@media (max-width: $breakpoint-small) {
 		
@@ -98,9 +102,6 @@
 		       height:auto;
 		}
 		
-		#banner {
-			height:180px;
-		}
 	}
 
 	@media (max-width: $breakpoint-medium) {
