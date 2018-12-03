@@ -7,10 +7,10 @@ meta:
   keywords: ""
 
 project:
-  title: "Minidamla Erkek Bebek Keseli Banyo Havlusu Beyaz"
+  title: "Minidamla Erkek Bebek 4'lü Havlu Bornoz Seti 0-3 Yaş Ekru"
   type: ""
-  url: "https://www.civilim.com/minidamla-erkek-bebek-keseli-banyo-havlusu-beyaz-42870-trk"
-  logo: "https://cdn.civilim.com/ProductImages/305399/big/8698686428700frontcivil1200.jpg"
+  url: "https://www.civilim.com/minidamla-erkek-bebek-4-lu-havlu-bornoz-seti-0-3-yas-ekru-42930"
+  logo: "/assets/images/bebek-havlu-seti.jpg"
   tech: ""
 
 agency:
