@@ -83,7 +83,7 @@
 }
 @media (max-width: $breakpoint-small) {
 		#banner {
-			height:150px;
+			height:150px !important;
 		}
 }
 .projects-list {
