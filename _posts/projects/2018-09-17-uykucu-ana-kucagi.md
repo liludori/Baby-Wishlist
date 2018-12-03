@@ -7,10 +7,10 @@ meta:
   keywords: ""
 
 project:
-  title: "Tiny Love - 3 ü 1 arada Uykucu Ana Kucağı"
+  title: "Chicco New Pocket Relax Ev Tipi Ana Kucağı Grey"
   type: ""
-  url: "https://www.e-bebek.com/tiny-love-3-u-1-arada-uykucu-ana-kucagi-p-tlo-45392002"
-  logo: "https://cdn.e-bebek.com/mnresize/500/-/www.ebebek/i/p/hd/49/lTLO-4249_1.jpg"
+  url: "https://www.babymall.com.tr/urun/chicco-new-pocket-relax-ev-tipi-ana-kucagi-chc-7982547-a-grey"
+  logo: "assets/images/ana-kucagi.jpg"
   tech: ""
 
 agency:
@@ -20,13 +20,13 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/yellowpineapple/devices.jpg"
-    alt: "Yellow Pineapple website on tablet, mobile and desktop"
+    url: ""
+    alt: ""
   - image:
-    url: "/assets/images/projects/yellowpineapple/desktop.jpg"
-    alt: "Yellow Pineapple website on a desktop device"
+    url: ""
+    alt: ""
   - image:
-    url: "/assets/images/projects/yellowpineapple/mobile.jpg"
-    alt: "Yellow Pineapple website on a mobile device"
+    url: ""
+    alt: ""
 ---
 <p></p>
