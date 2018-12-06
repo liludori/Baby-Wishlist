@@ -7,7 +7,7 @@ meta:
   keywords: ""
 
 project:
-  title: "Sophie the Giraffe So Pure Diş Kaşıma Halkası"
+  title: "Sophie the Giraffe Diş Kaşıma Halkası"
   type: ""
   url: "https://www.joker.com.tr/urun/sophie-the-giraffe-so-pure-dis-kasima-halkasi-3103"
   logo: "/assets/images/dis-kasiyici.jpg"
