@@ -6,7 +6,7 @@ category: projects
 meta:
   keywords: ""
 
-project:""
+project:
   title: "Yenidoğan Takım 3'lü"
   type: ""
   url: "https://www.lcwaikiki.com/tr-TR/TR/urun/LC-WAIKIKI/erkek-bebek/Takim-3-lu/3182975/572102"
