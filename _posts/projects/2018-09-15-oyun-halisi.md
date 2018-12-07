@@ -7,9 +7,9 @@ meta:
   keywords: ""
 
 project:
-  title: "Bondigo - Serüven Ormanı Oyun Halısı"
+  title: "Bright Stars Oyun Halısı Müzikli Zippy Zoo"
   type: ""
-  url: "https://www.e-bebek.com/bondigo-seruven-ormani-oyun-halisi-p-bon-bp2014/"
+  url: "https://www.hepsiburada.com/bright-stars-oyun-halisi-muzikli-zippy-zoo-p-AILEOPBS52169"
   logo: "/assets/images/oyun-halisi.jpg"
   tech: ""
 
