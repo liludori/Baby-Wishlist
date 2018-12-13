@@ -7,10 +7,10 @@ meta:
   keywords: ""
 
 project:
-  title: "Yenidoğan Takım 3'lü"
+  title: "İleri Ay Bebek Giyim"
   type: ""
-  url: "https://www.lcwaikiki.com/tr-TR/TR/urun/LC-WAIKIKI/erkek-bebek/Takim-3-lu/3182975/572102"
-  logo: "/assets/images/body.jpg"
+  url: "https://www.lcwaikiki.com/tr-TR/TR/urun/LC-WAIKIKI/erkek-bebek/Takim-2-li/3005032/562960"
+  logo: "/assets/images/yazlik-takim.jpg"
   tech: ""
 
 agency:
